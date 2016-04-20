@@ -7,7 +7,7 @@ Script use freshdesk API to create local sqlite database with:
 - Tickets
 - Conversations
 
-To use script you must enter API and freshdesk url in app.py
+To use script you must enter API key and freshdesk url in app.py
 
 ###Usage:
 ```
